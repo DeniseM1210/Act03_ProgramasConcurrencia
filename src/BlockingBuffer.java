@@ -1,3 +1,4 @@
+
 import java.util.concurrent.ArrayBlockingQueue;
 
 public class BlockingBuffer implements Buffer {
@@ -22,4 +23,3 @@ public class BlockingBuffer implements Buffer {
 	}
 
 }//BlockingBuffer
-
